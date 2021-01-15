@@ -1,9 +1,9 @@
   
 {
   "posts": [
-    { "id": 1, "title": "Pelecehan Seksual","isi_berita": "klskdsalkdlkasdlkasdlkashdlksadhaslkdhaslkd"},
-    { "id": 2, "title": "Kebakaran Lahan", "isi_berita": "klskdsalkdlkasdlkasdlkashdlksadhaslkdhaslkd" },
-    { "id": 3, "title": "Pesawat Jatuh", "isi_berita": "klskdsalkdlkasdlkasdlkashdlksadhaslkdhaslkd" }
+    { "id": 1, "title": "Pelecehan Seksual di Surabaya","isi_berita": "terjadi pelecehan di surabaya dengan nama korban A"},
+    { "id": 2, "title": "Perempuan patut mendapatkan hak hak nya", "isi_berita": "perempuan berhat mendapatkan hak hak nya untuk mencapai kesetaraan gender"},
+    { "id": 3, "title": "Pelecehan seksual di jakarta", "isi_berita": "pada pukul 11 malem terjadi pelecehan di area monas"}
   ]
  
 }
